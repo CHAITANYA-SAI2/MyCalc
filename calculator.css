@@ -1,0 +1,51 @@
+.button.clear{
+    background-color: #FA9884;
+}
+.container{
+    text-align: center;
+    padding: 30px 30px;
+    border:5px solid white;
+    margin: 50px 450px;
+    border-radius: 30px;
+    color: #577D86;
+    background-color: #B9EDDD;
+    box-shadow: 7px 7px;
+}
+.button{
+    padding: 8px 13px;
+    margin: 3px;
+    border-radius: 55px;
+    border: 3px solid black;
+    cursor: pointer;
+    font-size: x-large;
+    background-color:#576CBC;
+    color: #0B2447;
+    font-weight: bolder;
+    box-shadow: 2px 5px;
+}
+.res{
+    padding: 10px 25px;
+    background-color: #38E54D;
+}
+.input{
+    margin: 6px;
+    padding:8px 5px 8px 15px;
+    border:3px solid black;
+    border-radius: 55px;
+    background-color:white;
+    color: black;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+body{
+    background-image: url(calcibg.jpeg);
+    background-size: 100% 100%;
+}
+h1{
+    text-decoration: underline;
+}
+.operator{
+    background-color:whitesmoke;
+
+}
